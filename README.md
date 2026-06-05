@@ -8,3 +8,5 @@
 教師 | [陳鍾誠](https://www.nqu.edu.tw/educsie/index.php?act=blog&code=list&ids=4)
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://github.com/ccc114b/cpu2os
+https://github.com/cccbook/ai-teach-you/blob/main/sp/tw/README.md
+https://github.com/ccc-c/c0computer
