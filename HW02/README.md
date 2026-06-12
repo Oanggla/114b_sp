@@ -1,5 +1,6 @@
 # 習題 2 -- Lucy 程式語言與棧式虛擬機器實作 (Rust 版)
 
+*使用Antigravity + Gemini 3.5 Flash*
 作業連結：https://github.com/Oanggla/Lucy
 
 本專案使用 **Rust** 重新設計並實現了一個全新的程式語言：**Lucy**。
