@@ -1,6 +1,10 @@
 # 習題 2 -- Lucy 程式語言與棧式虛擬機器實作 (Rust 版)
 
 作業連結：https://github.com/Oanggla/Lucy
+<<<<<<< HEAD
+=======
+[TOC]
+>>>>>>> 658af0d (TOC)
 
 本專案使用 **Rust** 重新設計並實現了一個全新的程式語言：**Lucy**。
 Lucy 是一個結合了現代「表達式化 (Expression-based)」設計與函數式「管道操作符 (Pipeline Operator)」的動態強型態程式語言，並包含一個對應的位元組碼編譯器與一個精簡高效的棧式虛擬機器 (LumiVM/LucyVM)。
